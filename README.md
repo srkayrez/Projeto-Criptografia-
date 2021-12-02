@@ -1,6 +1,5 @@
 # AS TÉCNICAS CRIPTOGRÁFICAS, CONCEITOS, USOS E APLICAÇÕES
-## Projeto desenvolvido para faculdade na materia de Introdução a Programação Estruturada
-## Atividades práticas supervisionadas – APS II – Trabalho apresentado como exigência para a avaliação do curso de Ciências da Computação da Universidade Paulista sob orientação de professores do semestre.
+## Atividades práticas supervisionadas – APS II – Trabalho apresentado como exigência para a avaliação do curso de Ciências da Computação na materia de Introdução a Programação Estruturada da Universidade Paulista sob orientação de professores do semestre.
 
 ### Integrantes envolvidos no desenvolvimento da aplicação:
 - EMILYN BERTINI
